@@ -1,0 +1,4 @@
+{
+  flash = "Flash",
+  fail = "Failed to flash eeprom, check internet connection and eeprom"
+}
