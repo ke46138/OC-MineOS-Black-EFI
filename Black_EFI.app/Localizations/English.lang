@@ -1,5 +1,6 @@
 {
   flash = "Flash",
   fail = "Failed to flash eeprom, check internet connection and eeprom",
-  success = "Success"
+  success = "Success",
+  osbootswitch = "Make loading screen dark"
 }
